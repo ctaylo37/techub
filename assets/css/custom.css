@@ -1,0 +1,99 @@
+.row{
+  margin: 0!important;
+}
+
+body{
+	position: relative;
+}
+
+/*Header*/
+#techub-header{
+	background: white;
+	border-bottom: solid 1px #DBE0E6;
+}
+
+#techub-header h4{
+	line-height: 48px;
+}
+
+.btn, .form-control{
+	border-radius: 24px!important;
+}
+
+#techub-header .nav-link{
+	color: #97A2AF;
+	line-height: 40px;
+	border-bottom: solid 5px transparent;
+}
+
+#techub-header .nav-link:hover, #techub-header .nav-link.active{
+	color: #009CDE;
+	border-bottom: solid 5px #009CDE;
+}
+
+#search input{
+	position: relative;
+	padding-left: 30px;
+}
+
+#search .icon-search{
+	position: absolute;
+	top: 7px;
+	left: 7px;
+	z-index: 100;
+	color: #97A2AF;
+}
+
+/*Masthead*/
+.techub-masthead{
+	background-color: #009CDE;
+	padding: 48px 0;
+	background-size: 100px;
+}
+
+.techub-masthead.products-masthead{
+	background-image: url('../img/mast-icons/ic_hero_application-services.svg');
+}
+
+.techub-masthead .display-3{
+	font-weight: 100;
+}
+
+/*Left Nav*/
+.left-nav .nav-link{
+	color: #97A2AF;
+	margin-right: -3px;
+}
+
+.left-nav .nav-link:hover, .nav-link.active{
+	color: #009CDE;
+	border-right: solid 5px #009CDE;
+}
+
+/*Catalog*/
+.category-box{
+	width: 60px;
+	height: 60px;
+	border-radius: 3px;
+	background-color: #009CDE;
+}
+
+@media (max-width: 768px){
+	#product-nav{
+		position: fixed;
+		top: 71px;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		display: block;
+		z-index: 100;
+		background-color: white;
+	}
+	#product-nav .nav-link{
+		margin: 0 15px;
+	}
+
+	#catalog .divider-group{
+		margin-top: 71px;
+	}
+}

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="3112 -8513 60 60">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-category_application);
+      }
+
+      .cls-2 {
+        fill: #0096ea;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-category_application">
+      <rect x="3112" y="-8513" width="60" height="60"/>
+    </clipPath>
+  </defs>
+  <g id="category_application" class="cls-1">
+    <rect id="Rectangle_9743" data-name="Rectangle 9743" class="cls-2" width="60" height="60" rx="7" transform="translate(3112 -8513)"/>
+    <path id="e08d" class="cls-3" d="M29.063-45H20.039a4.357,4.357,0,0,0-3.574-3.574A6.018,6.018,0,0,0,15-48.75q-3.984,0-4.922,3.4A1.816,1.816,0,0,1,9.961-45H.938A.95.95,0,0,0,0-44.063v16.875a.95.95,0,0,0,.938.937H29.063A.95.95,0,0,0,30-27.187V-44.063A.95.95,0,0,0,29.063-45ZM15-46.875A3.046,3.046,0,0,1,18.105-45H11.895A3.115,3.115,0,0,1,15-46.875Zm13.125,3.75v3.75H1.875v-3.75ZM13.594-37.5h2.813v.938H13.594ZM1.875-28.125V-37.5h9.844v1.875a.95.95,0,0,0,.938.938h4.687a.95.95,0,0,0,.938-.937V-37.5h9.844v9.375Zm0,0" transform="translate(3127 -8445.25)"/>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<div id="techub-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3 col-sm-8 col-8 align-middle">
+        <h4 class="m-0 py-2"><i class="text-primary icon-paypal"></i> TechHub</h4>
+      </div>
+      <div class="col-sm col-4 hidden-lg-up text-right py-3">
+        <button id="open-mobile-menu" class="btn btn-secondary"><i class="icon-menu"></i> Menu</button>
+      </div>
+      <div class="push-lg-6 col-lg-3 col-12 py-3">
+        <div id="search" class="input-group">
+          <input type="text" class="form-control" placeholder="Search">
+          <i class="icon-search"></i>
+        </div>
+      </div>
+      <div id="techub-navigation" class="pull-lg-3 col-lg-6 hidden-md-down align-self-end">
+        <ul class="nav nav-top justify-content-center">
+          <li class="nav-item">
+            <a href="#" class="nav-link" {% if page.category == 'products' %} class="nav-link active" {% endif %} >Products & Services</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" {% if page.category == 'sdlc' %} class="nav-link active" {% endif %} href="#">SDLC</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" {% if page.category == 'contact' %} class="nav-link active" {% endif %} href="#">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

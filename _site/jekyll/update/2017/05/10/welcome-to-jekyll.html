@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="icon" href="https://ctaylo37.github.io/techub/assets/img/favicon.ico">
+
+<title>
+  
+    Welcome to Jekyll! &middot; Tech Hub
+  
+</title>
+
+<!-- Bootstrap core CSS -->
+<link href="https://ctaylo37.github.io/techub/assets/css/paypal-bolt.min.css" rel="stylesheet">
+
+<!-- Custom styles for this template -->
+<link href="https://ctaylo37.github.io/techub/assets/css/custom.css" rel="stylesheet">
+<link href="https://ctaylo37.github.io/techub/assets/css/animations.css" rel="stylesheet">
+  </head>
+  <body>
+    
+    <div id="techub-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3 col-sm-8 col-8 align-middle">
+        <h4 class="m-0 py-2"><i class="text-primary icon-paypal"></i> TechHub</h4>
+      </div>
+      <div class="col-sm col-4 hidden-lg-up text-right py-3">
+        <button id="open-mobile-menu" class="btn btn-secondary"><i class="icon-menu"></i> Menu</button>
+      </div>
+      <div class="push-lg-6 col-lg-3 col-12 py-3">
+        <div id="search" class="input-group">
+          <input type="text" class="form-control" placeholder="Search">
+          <i class="icon-search"></i>
+        </div>
+      </div>
+      <div id="techub-navigation" class="pull-lg-3 col-lg-6 hidden-md-down align-self-end">
+        <ul class="nav nav-top justify-content-center">
+          <li class="nav-item">
+            <a href="#" class="nav-link"  >Products & Services</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link"  href="#">SDLC</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link"  href="#">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+    <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">Welcome to Jekyll!</h1>
+    <p class="post-meta">
+      <time datetime="2017-05-10T14:18:36-07:00" itemprop="datePublished">
+        
+        May 10, 2017
+      </time>
+      </p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    <p>You’ll find this post in your <code class="highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>To add new posts, simply add a file in the <code class="highlighter-rouge">_posts</code> directory that follows the convention <code class="highlighter-rouge">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>
+
+
+  </div>
+
+  
+</article>
+
+    
+    <!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+<script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+<script src="https://ctaylo37.github.io/techub/assets/js/bootstrap.min.js"></script>
+
+<script type="text/javascript">
+	$('#open-mobile-menu').click( function() {
+      $("#techub-navigation").toggleClass("hidden-md-down");
+  } );
+</script>
+
+<script type="text/javascript">
+	$('body').scrollspy({ target: '#product-nav' })
+</script>
+
+<script type="text/javascript">
+	$('#open-mobile-categories').click( function() {
+      $("#product-nav").toggleClass("hidden-sm-down");
+  } );
+</script>
+
+<script type="text/javascript">
+	$('#product-nav .nav-link').click( function() {
+
+			if (window.innerWidth < 768){
+				$("#product-nav").addClass("hidden-sm-down");
+			}
+
+			else{
+
+			}
+      
+  } );
+</script>
+
+
+  </body>
+</html>

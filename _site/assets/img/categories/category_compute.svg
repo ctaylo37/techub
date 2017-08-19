@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="2496 -8513 60 60">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-category_compute);
+      }
+
+      .cls-2 {
+        fill: #0096ea;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-category_compute">
+      <rect x="2496" y="-8513" width="60" height="60"/>
+    </clipPath>
+  </defs>
+  <g id="category_compute" class="cls-1">
+    <rect id="Rectangle_9735" data-name="Rectangle 9735" class="cls-2" width="60" height="60" rx="7" transform="translate(2496 -8513)"/>
+    <g id="compute" transform="translate(2513 -8498)">
+      <path id="Path_175" data-name="Path 175" class="cls-3" d="M23.412,5.882A.834.834,0,0,0,22.529,5H4.882A.834.834,0,0,0,4,5.882v4.412a.834.834,0,0,0,.882.882H22.529a.834.834,0,0,0,.882-.882ZM5.765,6.765H21.647V9.412H5.765Z" transform="translate(-0.471 -0.588)"/>
+      <path id="Path_176" data-name="Path 176" class="cls-3" d="M12.824,14.882A.834.834,0,0,0,11.941,14H4.882A.834.834,0,0,0,4,14.882v4.412a.834.834,0,0,0,.882.882h7.059a.834.834,0,0,0,.882-.882Zm-1.765,3.529H5.765V15.765h5.294Z" transform="translate(-0.471 -1.647)"/>
+      <path id="Path_177" data-name="Path 177" class="cls-3" d="M24.824,14.882A.834.834,0,0,0,23.941,14H16.882a.834.834,0,0,0-.882.882v4.412a.834.834,0,0,0,.882.882h7.059a.834.834,0,0,0,.882-.882Zm-1.765,3.529H17.765V15.765h5.294Z" transform="translate(-1.882 -1.647)"/>
+      <path id="Path_178" data-name="Path 178" class="cls-3" d="M12.824,23.882A.834.834,0,0,0,11.941,23H4.882A.834.834,0,0,0,4,23.882v4.412a.834.834,0,0,0,.882.882h7.059a.834.834,0,0,0,.882-.882Zm-1.765,3.529H5.765V24.765h5.294Z" transform="translate(-0.471 -2.706)"/>
+      <path id="Path_179" data-name="Path 179" class="cls-3" d="M24.824,23.882A.834.834,0,0,0,23.941,23H16.882a.834.834,0,0,0-.882.882v4.412a.834.834,0,0,0,.882.882h7.059a.834.834,0,0,0,.882-.882Zm-1.765,3.529H17.765V24.765h5.294Z" transform="translate(-1.882 -2.706)"/>
+      <path id="Path_180" data-name="Path 180" class="cls-3" d="M26.471.882A.834.834,0,0,0,25.588,0H.882A.834.834,0,0,0,0,.882V29.118A.834.834,0,0,0,.882,30H25.588a.834.834,0,0,0,.882-.882ZM24.706,28.235H1.765V1.765H24.706Z" transform="translate(0)"/>
+    </g>
+  </g>
+</svg>
