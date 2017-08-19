@@ -49,14 +49,14 @@ title: Products & Services
 					</div>
 					<ul class="list-unstyled">
 					  <li class="media mb-4">
-				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}assets/img/categories/category_compute.svg">
+				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}/assets/img/categories/category_compute.svg">
 					    <div class="media-body">
 					      <a href="#"><h4 class="mt-0 mb-1">C3</h4></a>
 					      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
 					    </div>
 					  </li>
 					  <li class="media mb-4">
-				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}assets/img/categories/category_compute.svg">
+				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}/assets/img/categories/category_compute.svg">
 					    <div class="media-body">
 					      <a href="#"><h4 class="mt-0 mb-1">Docker</h4></a>
 					      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
@@ -72,42 +72,42 @@ title: Products & Services
 					</div>
 					<ul class="list-unstyled">
 					  <li class="media mb-4">
-				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}assets/img/categories/category_storage.svg">
+				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}/assets/img/categories/category_storage.svg">
 					    <div class="media-body">
 					      <a href="#"><h4 class="mt-0 mb-1">Solidfire</h4></a>
 					      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
 					    </div>
 					  </li>
 					  <li class="media mb-4">
-				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}assets/img/categories/category_storage.svg">
+				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}/assets/img/categories/category_storage.svg">
 					    <div class="media-body">
 					      <a href="#"><h4 class="mt-0 mb-1">Oracle</h4></a>
 					      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
 					    </div>
 					  </li>
 					  <li class="media mb-4">
-				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}assets/img/categories/category_storage.svg">
+				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}/assets/img/categories/category_storage.svg">
 					    <div class="media-body">
 					      <a href="#"><h4 class="mt-0 mb-1">Couchbase</h4></a>
 					      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
 					    </div>
 					  </li>
 					  <li class="media mb-4">
-				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}assets/img/categories/category_storage.svg">
+				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}/assets/img/categories/category_storage.svg">
 					    <div class="media-body">
 					      <a href="#"><h4 class="mt-0 mb-1">Juno</h4></a>
 					      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
 					    </div>
 					  </li>
 					  <li class="media mb-4">
-				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}assets/img/categories/category_storage.svg">
+				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}/assets/img/categories/category_storage.svg">
 					    <div class="media-body">
 					      <a href="#"><h4 class="mt-0 mb-1">Mayfly</h4></a>
 					      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
 					    </div>
 					  </li>
 					  <li class="media mb-4">
-				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}assets/img/categories/category_storage.svg">
+				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}/assets/img/categories/category_storage.svg">
 					    <div class="media-body">
 					      <a href="#"><h4 class="mt-0 mb-1">OCC</h4></a>
 					      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
@@ -123,14 +123,14 @@ title: Products & Services
 					</div>
 					<ul class="list-unstyled">
 					  <li class="media mb-4">
-				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}assets/img/categories/category_networking.svg">
+				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}/assets/img/categories/category_networking.svg">
 					    <div class="media-body">
 					      <a href="#"><h4 class="mt-0 mb-1">Slingshot</h4></a>
 					      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
 					    </div>
 					  </li>
 					  <li class="media mb-4">
-				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}assets/img/categories/category_networking.svg">
+				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}/assets/img/categories/category_networking.svg">
 					    <div class="media-body">
 					      <a href="#"><h4 class="mt-0 mb-1">Load Balancer</h4></a>
 					      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
@@ -146,14 +146,14 @@ title: Products & Services
 					</div>
 					<ul class="list-unstyled">
 					  <li class="media mb-4">
-				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}assets/img/categories/category_developer.svg">
+				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}/assets/img/categories/category_developer.svg">
 					    <div class="media-body">
 					      <a href="#"><h4 class="mt-0 mb-1">Altus</h4></a>
 					      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
 					    </div>
 					  </li>
 					  <li class="media mb-4">
-				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}assets/img/categories/category_developer.svg">
+				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}/assets/img/categories/category_developer.svg">
 					    <div class="media-body">
 					      <a href="#"><h4 class="mt-0 mb-1">Raptor</h4></a>
 					      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
@@ -169,14 +169,14 @@ title: Products & Services
 					</div>
 					<ul class="list-unstyled">
 					  <li class="media mb-4">
-				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}assets/img/categories/category_collaboration.svg">
+				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}/assets/img/categories/category_collaboration.svg">
 					    <div class="media-body">
 					      <a href="#"><h4 class="mt-0 mb-1">GitHub</h4></a>
 					      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
 					    </div>
 					  </li>
 					  <li class="media mb-4">
-				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}assets/img/categories/category_collaboration.svg">
+				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}/assets/img/categories/category_collaboration.svg">
 					    <div class="media-body">
 					      <a href="#"><h4 class="mt-0 mb-1">JIRA</h4></a>
 					      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
@@ -192,14 +192,14 @@ title: Products & Services
 					</div>
 					<ul class="list-unstyled">
 					  <li class="media mb-4">
-				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}assets/img/categories/category_security.svg">
+				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}/assets/img/categories/category_security.svg">
 					    <div class="media-body">
 					      <a href="#"><h4 class="mt-0 mb-1">Fortify</h4></a>
 					      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
 					    </div>
 					  </li>
 					  <li class="media mb-4">
-				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}assets/img/categories/category_security.svg">
+				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}/assets/img/categories/category_security.svg">
 					    <div class="media-body">
 					      <a href="#"><h4 class="mt-0 mb-1">Keymaker</h4></a>
 					      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
@@ -215,14 +215,14 @@ title: Products & Services
 					</div>
 					<ul class="list-unstyled">
 					  <li class="media mb-4">
-				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}assets/img/categories/category_monitoring.svg">
+				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}/assets/img/categories/category_monitoring.svg">
 					    <div class="media-body">
 					      <a href="#"><h4 class="mt-0 mb-1">Sherlock</h4></a>
 					      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
 					    </div>
 					  </li>
 					  <li class="media mb-4">
-				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}assets/img/categories/category_monitoring.svg">
+				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}/assets/img/categories/category_monitoring.svg">
 					    <div class="media-body">
 					      <a href="#"><h4 class="mt-0 mb-1">Turbo Roller</h4></a>
 					      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
@@ -238,28 +238,28 @@ title: Products & Services
 					</div>
 					<ul class="list-unstyled">
 					  <li class="media mb-4">
-				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}assets/img/categories/category_messaging.svg">
+				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}/assets/img/categories/category_messaging.svg">
 					    <div class="media-body">
 					      <a href="#"><h4 class="mt-0 mb-1">ADR</h4></a>
 					      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
 					    </div>
 					  </li>
 					  <li class="media mb-4">
-				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}assets/img/categories/category_messaging.svg">
+				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}/assets/img/categories/category_messaging.svg">
 					    <div class="media-body">
 					      <a href="#"><h4 class="mt-0 mb-1">AMQ</h4></a>
 					      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
 					    </div>
 					  </li>
 					  <li class="media mb-4">
-				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}assets/img/categories/category_messaging.svg">
+				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}/assets/img/categories/category_messaging.svg">
 					    <div class="media-body">
 					      <a href="#"><h4 class="mt-0 mb-1">Kafka</h4></a>
 					      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
 					    </div>
 					  </li>
 					  <li class="media mb-4">
-				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}assets/img/categories/category_messaging.svg">
+				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}/assets/img/categories/category_messaging.svg">
 					    <div class="media-body">
 					      <a href="#"><h4 class="mt-0 mb-1">YAM</h4></a>
 					      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
@@ -275,21 +275,21 @@ title: Products & Services
 					</div>
 					<ul class="list-unstyled">
 					  <li class="media mb-4">
-				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}assets/img/categories/category_application.svg">
+				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}/assets/img/categories/category_application.svg">
 					    <div class="media-body">
 					      <a href="#"><h4 class="mt-0 mb-1">Mediaserv</h4></a>
 					      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
 					    </div>
 					  </li>
 					  <li class="media mb-4">
-				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}assets/img/categories/category_application.svg">
+				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}/assets/img/categories/category_application.svg">
 					    <div class="media-body">
 					      <a href="#"><h4 class="mt-0 mb-1">Notificationserv</h4></a>
 					      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
 					    </div>
 					  </li>
 					  <li class="media mb-4">
-				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}assets/img/categories/category_application.svg">
+				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}/assets/img/categories/category_application.svg">
 					    <div class="media-body">
 					      <a href="#"><h4 class="mt-0 mb-1">Searchserv</h4></a>
 					      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
@@ -305,21 +305,21 @@ title: Products & Services
 					</div>
 					<ul class="list-unstyled">
 					  <li class="media mb-4">
-				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}assets/img/categories/category_analytics.svg">
+				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}/assets/img/categories/category_analytics.svg">
 					    <div class="media-body">
 					      <a href="#"><h4 class="mt-0 mb-1">Tableau</h4></a>
 					      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
 					    </div>
 					  </li>
 					  <li class="media mb-4">
-				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}assets/img/categories/category_analytics.svg">
+				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}/assets/img/categories/category_analytics.svg">
 					    <div class="media-body">
 					      <a href="#"><h4 class="mt-0 mb-1">Experimentation</h4></a>
 					      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
 					    </div>
 					  </li>
 					  <li class="media mb-4">
-				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}assets/img/categories/category_analytics.svg">
+				  		<img class="d-flex mr-3" width="60" src="{{ site.baseurl }}/assets/img/categories/category_analytics.svg">
 					    <div class="media-body">
 					      <a href="#"><h4 class="mt-0 mb-1">Tracking</h4></a>
 					      Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
